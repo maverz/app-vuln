@@ -2,7 +2,7 @@
 
 ### Cómo Desplegar aplicación Docker NodeJS en Heroku de forma local
 
-Pasos:  
+Pasos:
 
 Forkear el Repo
 
